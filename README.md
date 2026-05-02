@@ -1,6 +1,4 @@
-## <p align="center"> Hello Folks!, I am [**Mihirkumar Mistry**](https://github.com/mihirkumarmistry) :wave: </p>
-
-<h1 align="center">Hi, I'm Mihirkumar Mistry 👋</h1>
+<h1 align="center">Hello Folks!, I'm [**Mihirkumar Mistry**](https://github.com/mihirkumarmistry) 👋</h1>
 
 <p align="center">
   <b>Full-Stack Software Engineer · .NET & Angular Specialist · Cloud & AI/ML Enthusiast</b><br/>
